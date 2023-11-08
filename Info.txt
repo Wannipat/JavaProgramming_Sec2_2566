@@ -1,0 +1,5 @@
+Student_id : 2313111086
+Student Name : Wannipat Benyapol
+Major : IT
+Level :  1
+Faculty:Information Technology
