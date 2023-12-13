@@ -1,4 +1,4 @@
 Id : 2313111086
 Name-Surname : Wannipat Benyapol
-Date : Nov-29-2023 
-Topic : Control Statements (Dicision , Loop , and Jump Statements)
+Date : Dec-13-2023 
+Topic : Method of String
